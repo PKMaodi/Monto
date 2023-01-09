@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PaulMaodi/Monto909.git/static/css/main.7b39984b.css",
+    "main.js": "/PaulMaodi/Monto909.git/static/js/main.678ce8e6.js",
+    "index.html": "/PaulMaodi/Monto909.git/index.html",
+    "main.7b39984b.css.map": "/PaulMaodi/Monto909.git/static/css/main.7b39984b.css.map",
+    "main.678ce8e6.js.map": "/PaulMaodi/Monto909.git/static/js/main.678ce8e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b39984b.css",
+    "static/js/main.678ce8e6.js"
+  ]
+}
